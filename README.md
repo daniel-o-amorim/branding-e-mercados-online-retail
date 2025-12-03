@@ -137,6 +137,21 @@ README.md
 
 <hr style="border:0; border-top:1px solid #ccc; margin:30px 0;">
 
+<!-- SECÇÃO -->
+<h2 style="font-size:24px; font-weight:700; margin-bottom:10px;">6. Créditos e Dataset</h2>
+
+<p>Os dados utilizados neste projeto foram obtidos do <strong>Online Retail II Dataset</strong>, que contém transações de um varejista online baseado no Reino Unido entre 01/12/2009 e 09/12/2011.</p>
+
+<ul>
+  <li><strong>Fonte:</strong> Dr. Daqing Chen, MSc Data Science, London South Bank University (<a href="mailto:chend@lsbu.ac.uk">chend@lsbu.ac.uk</a>)</li>
+  <li><strong>Download do Dataset:</strong> 
+    <a href="https://archive.ics.uci.edu/ml/datasets/Online+Retail+II" target="_blank">UCI Machine Learning Repository</a>  
+    e também disponível em <a href="https://www.kaggle.com/datasets/lakshmi25npathi/online-retail-dataset" target="_blank">Kaggle</a>
+  </li>
+  <li><strong>Licença:</strong> Conforme descrito nas fontes originais</li>
+</ul>
+
+<hr style="border:0; border-top:1px solid #e5e5e5; margin:25px 0;">
 
 <!-- AUTOR -->
 <h2 style="font-size:24px; font-weight:700; margin-bottom:10px;">6. Autor</h2>
