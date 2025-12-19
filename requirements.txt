@@ -1,0 +1,13 @@
+# Bibliotecas essenciais para Data Manipulation e Análise:
+pandas
+numpy
+
+# Bibliotecas para Visualização de Dados:
+matplotlib
+seaborn
+plotly
+ipython
+
+# Bibliotecas Estatísticas e de Data/Hora:
+scipy
+datetime
